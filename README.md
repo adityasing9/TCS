@@ -40,12 +40,15 @@ This chat server:
 ## 🚀 How to Run
 
 1️⃣ Clone the repository:
-git clone <your-repo-link>
+
+git clone (your-repo-link)
 
 2️⃣ Navigate into the project folder:
-cd <project-folder>
+
+cd (project-folder)
 
 3️⃣ Run the server:
+
 python mchat.py
 
 4️⃣ Connect from another terminal:
