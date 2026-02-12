@@ -1,8 +1,10 @@
-# 🗨️ Multi-Client Chat Server inside Terminal
+# 🗨️ Multi-Client Chat Server inside Terminal 💻
 
-A simple multi-client chat server built using Python sockets and threading.
+A lightweight, real-time multi-client chat server built using Python's `socket` and `threading` modules.
 
-This project demonstrates how to build a basic TCP server that allows multiple clients to connect and communicate in real time ⚡
+This project demonstrates how to design a basic TCP server that allows multiple clients to connect, communicate, and exchange messages simultaneously — all directly inside the terminal ⚡
+
+Built for learning, experimenting, and understanding how real-time networking works under the hood 🌐
 
 ---
 
