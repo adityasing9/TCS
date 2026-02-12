@@ -51,13 +51,13 @@ This chat server:
 
    python mchat.py
 
-4. Connect from another terminal:
+4. Connect Using Netcat from another terminal:
 
    Linux:
-   nc 127.0.0.1 5000
+   nc <server-ip> 5000
 
    Windows:
-   telnet 127.0.0.1 5000
+   telnet <server-ip> 5000
 
 ---
 
