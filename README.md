@@ -37,29 +37,24 @@ This chat server:
 
 ---
 
+## 🚀 How to Run
 
-## How to Run
+1️⃣ Clone the repository:
+git clone <your-repo-link>
 
-1. Clone the repository:
+2️⃣ Navigate into the project folder:
+cd <project-folder>
 
-   git clone <your-repo-link>
+3️⃣ Run the server:
+python mchat.py
 
-2. Navigate into the project folder:
+4️⃣ Connect from another terminal:
 
-   cd <project-folder>
+🐧 Linux:
+nc (server-ip) 5000
 
-3. Run the server:
-
-   python mchat.py
-
-4. Connect Using Netcat from another terminal:
-
-   Linux:
-   nc (server-ip) 5000
-
-   Windows:
-   telnet (server-ip) 5000
-
+🪟 Windows:
+telnet (server-ip) 5000
 
 ---
 
