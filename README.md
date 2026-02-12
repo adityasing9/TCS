@@ -1,4 +1,4 @@
-# 🗨️ Python Multi-Client Chat Server
+# 🗨️ Multi-Client Chat Server
 
 A simple multi-client chat server built using Python sockets and threading.
 
