@@ -54,10 +54,10 @@ This chat server:
 4. Connect Using Netcat from another terminal:
 
    Linux:
-   nc <server-ip> 5000
+   nc (server-ip) 5000
 
    Windows:
-   telnet <server-ip> 5000
+   telnet (server-ip) 5000
 
 ---
 
