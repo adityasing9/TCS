@@ -35,7 +35,7 @@ This chat server:
 ## 🖥️ Requirements
 
 - 🐍 Python 3.x  
-- 💻 Works on Windows, Linux, and macOS  
+- 💻 Works on Windows, Linux, Android and macOS  
 
 ---
 
